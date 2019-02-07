@@ -1,9 +1,9 @@
-title: Site title
+title: HUD Office of Inspector General
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
-  organization: 18F
+  organization: HUD OIG
   repository: federalist-uswds-template
   default_branch: master
 
