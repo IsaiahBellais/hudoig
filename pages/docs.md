@@ -1,14 +1,14 @@
 ---
-title: Documentation
+title: Reports & Publications
 permalink: /docs/
 
 layout: page
 sidenav: docs
 
 subnav:
-  - text: Section one
+  - text: Latest Reports
     href: '#section-one'
-  - text: Section two
+  - text: Search Reports
     href: '#section-two'
 ---
 
